@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#playerturn{
+  margin-top: 30px;
+}
+.row{
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+  margin: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.count{
+  border: 3px solid black;
+}

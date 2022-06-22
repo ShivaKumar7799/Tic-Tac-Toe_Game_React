@@ -1,0 +1,30 @@
+
+.square {
+    background: #fff;
+    border: 1px solid #999;
+    float: right;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 60px;
+background-color: aqua;
+    padding: 0;
+    text-align: center;
+    width: 60px;
+    margin-left: 40px;
+    color:steelblue;
+   
+    
+    
+   
+  }
+  .square_container{
+   
+    width: 55px;
+    height: 55px;
+    
+  }
+  
+  .square:focus {
+    outline: none;
+  }

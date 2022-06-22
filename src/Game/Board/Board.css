@@ -1,0 +1,60 @@
+
+.container{
+  
+    text-align: center;
+    margin-left: 400px;
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+    box-shadow: 10px 10px 10px rgba(0, 0,1.5, 1.2);
+    background-color: lemonchiffon;
+    padding-left: 129px;
+}
+h2{
+    color: lightcoral;
+  margin-left: 550px;
+  
+}
+
+
+.count{
+  
+    max-width: 60px;
+    max-height: 60px;
+    margin-left: -90px;
+    position: fixed;
+    color: white;
+    background-color: coral;
+  
+    border: none;
+    margin-top: 40px;
+    
+}
+.set_btn{
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: dimgray;
+    margin-top: 30px;
+    margin-left: -139px;
+    border: none;
+}
+.status{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    color: dodgerblue;
+    font-size: 20px;
+    margin-left: -144px;
+  
+   
+}
+@media screen and (max-width:800px) {
+    .container{
+        margin-left: 50px;
+        padding-left: 120px;
+    }
+    h2{
+        margin-left:220px;
+    }
+    
+}

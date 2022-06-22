@@ -1,0 +1,13 @@
+.game {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .game-info {
+    margin-left: -320px;
+    margin-top: 440px;
+    font-size: 30px;
+    color: orange;
+    font-weight: 800;
+    background-color: blanchedalmond;
+  }
